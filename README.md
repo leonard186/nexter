@@ -10,6 +10,7 @@ Fluid layout website presenting a fictional realtor company
 ## Description
 
 The purpose of this project is to demonstrate knowledge of the CSS3 Grid layout system.
+This website has no functionality, it only presents the user interface of a realtor company.
 
 ## Tech used
 
